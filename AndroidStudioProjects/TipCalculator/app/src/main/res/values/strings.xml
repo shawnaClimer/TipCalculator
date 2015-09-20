@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="instruction_1">Enter the bill total:</string>
+    <string name="instruction_2">Select tip percentage:</string>
+    <string name="result_1">Tip: $</string>
+    <string name="result_2">Total: $</string>
+    <string name="message">Good service = good tip</string>
+    <string name="service_10">Wow, your service must of been TERRIBLE!!</string>
+    <string name="service_20">Good service = good tip</string>
+    <string name="service_25">Great service = GREAT tip!</string>
+    <string name="service_30">Wow, your service must of been AMAZING!!</string>
+    <string name="minimum_tip">Minimum tip $5.00</string>
+</resources>
